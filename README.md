@@ -2,7 +2,7 @@
 Student | Creative Technologies and Artificial Intelligence
 
 
-## 🌐 Socials:
+## 🌐 Contact:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yahya-sultan-chaudhry-a4181528a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yahya.sultan7575@gmail.com) 
 
 # 💻 Tech Stack:
